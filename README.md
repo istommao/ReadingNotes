@@ -12,3 +12,9 @@ Reading Notes
 ## 编写高质量代码 改善Python程的建议
 
 [改善Python程的建议](solid_python_code/index.md)
+
+## CS资料
+
+[TeachYourselfCS-CN](cs_data/TeachYourselfCS-CN.md)
+[What Every Computer Science Major Should Know](cs_data/WhatEveryComputerScienceMajorShouldKnow.pdf)
+
