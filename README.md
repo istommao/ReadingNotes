@@ -15,6 +15,16 @@ Reading Notes
 ## 计算机网络
 
 
+
+## Rust资料
+
+- [Rust学习之路 GitHub](https://github.com/yangwenmai/learning-rust)
+- [Rust By Example 中文版](https://github.com/rust-lang-cn/rust-by-example-cn)
+- [Rust by Example](https://doc.rust-lang.org/rust-by-example/index.html)
+- [Rust Wiki](https://learnku.com/rust/wikis)
+- [The Rust Programming Language](https://doc.rust-lang.org/book/title-page.html)
+- [rust-learning](https://github.com/ctjhoa/rust-learning)
+
 ## 其他
 
 - [代码整洁之道](clean_code/index.md)
